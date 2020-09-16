@@ -6,11 +6,8 @@ import (
 	"flag"
 	"fmt"
 	"golang.org/x/sys/windows/registry"
-	//"golang.org/x/sys/windows/registry"
 	"runtime"
-	//go get -u github.com/logrusorgru/aurora
 	"github.com/logrusorgru/aurora" // For terminal colors
-	//go get -u github.com/nsf/termbox-go
 	"github.com/nsf/termbox-go" // For terminal height/width
 )
 
